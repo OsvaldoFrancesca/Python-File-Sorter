@@ -1,4 +1,3 @@
-
 # 📂 Python File Sorter
 
 A lightweight, efficient automation script designed to organize cluttered directories by sorting files into subfolders based on their extensions.
@@ -15,7 +14,7 @@ Built with **Python 3**, focusing on safety and maintainability using standard l
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/OsvaldoFrancesca/Python-File-Sorter]
+   git clone [https://github.com/OsvaldoFrancesca/Python-File-Sorter.git](https://github.com/OsvaldoFrancesca/Python-File-Sorter.git)
 Navigate to the directory:
 
 Bash
@@ -38,3 +37,5 @@ EXTENSIONS_MAP = {
     '.pdf': 'Documents', 
     # Add your own: '.extension': 'Folder_Name'
 }
+📄 License
+This project is licensed under the MIT License - feel free to use and modify it.
