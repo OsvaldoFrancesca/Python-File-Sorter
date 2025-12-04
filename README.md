@@ -1,4 +1,3 @@
-Markdown
 
 # 📂 Python File Sorter
 
@@ -16,7 +15,7 @@ Built with **Python 3**, focusing on safety and maintainability using standard l
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/OsvaldoFrancesca/Python-File-Sorter](https://github.com/OsvaldoFrancesca/Python-File-Sorter)
+   git clone [https://github.com/OsvaldoFrancesca/Python-File-Sorter]
 Navigate to the directory:
 
 Bash
