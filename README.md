@@ -14,7 +14,7 @@ Built with **Python 3**, focusing on safety and maintainability using standard l
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/OsvaldoFrancesca/Python-File-Sorter.git](https://github.com/OsvaldoFrancesca/Python-File-Sorter.git)
+   git clone https://github.com/OsvaldoFrancesca/Python-File-Sorter.git
 Navigate to the directory:
 
 Bash
